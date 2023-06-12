@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student
 ----------------------------
 
-I'm a software engineering student, currently studying at Polytechnique Montreal. I've had the opportunity to gain experience in back-end programming (MongoDB, SocketIO) programming, and a lot more in frond-end programming (HTML, CSS, Typescript/Javascript, Angular). Down below is a link to an Angular project (a video game) I did as part of a team (with other students) during my second year of college.
+I'm a software engineering student, currently studying at Polytechnique Montreal. I've had the opportunity to gain experience in back-end programming (MongoDB, SocketIO) programming, and a lot more in frond-end programming (HTML, CSS, Typescript/Javascript, Angular). Down below is a link to an Angular project (a video game) I did as part of a team (with other students) during my second year of college. The project consisted in developing a web version of the game of seven differences, also known as the game of seven errors. The concept of this game, which can sometimes be found in the pages of a newspaper, is very simple. Two images are presented: an original one, and a modified one. The modified image has seven differences, and the aim is to identify them all : http://polytechnique-montr-al.gitlab.io/log2990/20223/equipe-206/LOG2990-206/#/home
 
 * 🌍  I'm based in Montreal
 * ✉️  You can contact me at [jeanmarcndek@gmail.com](mailto:jeanmarcndek@gmail.com)
